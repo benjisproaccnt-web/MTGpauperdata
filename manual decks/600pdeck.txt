@@ -1,0 +1,33 @@
+name: fili96
+record: 2-3-3
+standing: 600
+
+MainDeck
+2 Forest
+6 Island
+4 Moment's Peace
+2 Muddle the Mixture
+1 Dimir Aqueduct
+4 Simic Growth Chamber
+1 Fog
+2 Bojuka Bog
+4 Brainstorm
+3 Tangle
+2 Ash Barrens
+4 Arcane Denial
+4 Growth Spiral
+2 Stream of Thought
+4 Weather the Storm
+3 Behold the Multiverse
+2 Foreboding Landscape
+2 Heritage Reclamation
+3 Embrace the Paradox
+4 Lórien Revealed
+1 Tangled Islet
+
+Sideboard
+4 Hydroblast
+2 Blue Elemental Blast
+3 Dispel
+3 Murmuring Mystic
+3 Faerie Macabre

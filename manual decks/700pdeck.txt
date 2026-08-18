@@ -1,0 +1,40 @@
+name: gyjsk
+record: 3-5-0
+standing: 700
+
+MainDeck
+1 Relic of Progenitus
+3 Writhing Chrysalis
+1 Tinder Wall
+2 Cartouche of Zeal
+1 Molten Gatekeeper
+3 Bitter Reunion
+4 Galvanic Discharge
+3 Faithless Looting
+3 Commune with the Gods
+3 Malevolent Rumble
+4 Presence of Gond
+3 Utopia Sprawl
+1 Mana Tithe
+1 Journey to Nowhere
+4 Midnight Guard
+3 Jolted Awake
+3 Prismatic Strands
+1 Ash Barrens
+3 Sheltering Landscape
+7 Forest
+1 Lotus Petal
+2 Plains
+1 Ancient Den
+5 Mountain
+1 Rustvale Bridge
+
+Sideboard
+1 Dawn Charm
+3 Relic of Progenitus
+2 Smash to Dust
+1 Journey to Nowhere
+3 Spirit Link
+3 Red Elemental Blast
+1 Cast into the Fire
+1 Blazing Volley

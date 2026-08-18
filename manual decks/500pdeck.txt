@@ -1,0 +1,31 @@
+name: doncastello
+record: 4-4-0
+standing: 500
+
+MainDeck
+4 Troll of Khazad-dûm
+2 Mirrorshell Crab
+4 Striped Riverwinder
+4 Tolarian Terror
+4 Brainstorm
+4 Spell Pierce
+3 Abandon Attachments
+4 Cast Down
+4 Counterspell
+2 Unexpected Fangs
+2 Ponder
+4 Exhume
+3 Drown in Sorrow
+1 Dragon Wings
+1 Bojuka Bog
+4 Contaminated Aquifer
+9 Island
+2 Swamp
+
+Sideboard
+2 Annul
+4 Blue Elemental Blast
+2 Echoing Truth
+2 Recoil
+2 Extract a Confession
+3 Nihil Spellbomb
