@@ -1,4 +1,4 @@
-# MTGpauperdata
+# MTG Pauper Deck Analysis
 
 The purpose of this project is to analyze game statistics from a Pauper Magic: The Gathering event using Paupergeddon 2026. More specifically, to figure out which cards either over performed, or under performed at the tournament. In order to do this, the cards in a players deck are assigned a score, the total score is averaged across all copies of the card. This final score is the relative win rate for the card itself, showing whether it is associated more with over-performing or under-performing decks.  
 
