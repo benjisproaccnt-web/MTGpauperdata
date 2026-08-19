@@ -16,7 +16,7 @@ for filename in deck_names:
     player_name = lines[0].split(":", 1)[1].strip()
 
     # record: 14-2-1 -> wins: 14, losses: 1
-    wins, _, losses = lines[1].split(":", 1)[1].strip().split("-")
+    wins, losses, _ = lines[1].split(":", 1)[1].strip().split("-")
     wins = int(wins)
     losses = int(losses)
     player_score = wins - losses
