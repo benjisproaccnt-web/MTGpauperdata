@@ -1,0 +1,168 @@
+=== MASTER CARD RELATIVE SCORES (Filtered: >3 Copies) ===
+Total Unique Cards (after filtering): 162
+=======================================================
+
+ Rel Val  Copies   Total Pts  Card Name
+-------------------------------------------------------
+    6.00       4x          24  Utrom Monitor
+    6.00       4x          24  Mistvault Bridge
+    6.00       4x          24  Myr Enforcer
+    6.00       4x          24  Thoughtcast
+    6.00       4x          24  Silverbluff Bridge
+    6.00       4x          24  Seat of the Synod
+    6.00       4x          24  Reckoner's Bargain
+    5.50       4x          22  Toxin Analysis
+    5.29       7x          37  Troublemaker Ouphe
+    4.75      16x          76  Drossforge Bridge
+    4.64      11x          51  Krark-Clan Shaman
+    4.33      12x          52  Cleansing Wildfire
+    4.33      12x          52  Twisted Landscape
+    4.33      12x          52  Slagwoods Bridge
+    4.00       4x          16  Mental Note
+    4.00       4x          16  Cryptic Serpent
+    4.00       4x          16  Thought Scour
+    4.00       4x          16  Delver of Secrets // Insectile Aberration
+    4.00      16x          64  Fanatical Offering
+    3.73      15x          56  Duress
+    3.60      20x          72  Refurbished Familiar
+    3.47      15x          52  Ichor Wellspring
+    3.43       7x          24  Cryogen Relic
+    3.38      13x          44  Eviscerator's Insight
+    3.29      14x          46  Vault of Whispers
+    3.00      10x          30  Faerie Macabre
+    3.00       4x          12  Defile
+    3.00       4x          12  Khalni Garden
+    2.92      13x          38  Breath Weapon
+    2.67       6x          16  Annul
+    2.63      27x          71  Nihil Spellbomb
+    2.62      21x          55  Weather the Storm
+    2.61      28x          73  Cast Down
+    2.53      17x          43  Lembas
+    2.50       4x          10  Campfire
+    2.42      19x          46  Writhing Chrysalis
+    2.40       5x          12  Ponder
+    2.33       6x          14  Avenging Hunter
+    2.20      30x          66  Swamp
+    2.20       5x          11  Sagu Wildling // Roost Seek
+    2.09      23x          48  Hydroblast
+    2.00       4x           8  Preordain
+    2.00       4x           8  Balustrade Spy
+    2.00       4x           8  Lead the Stampede
+    2.00       4x           8  Azorius Chancery
+    2.00       4x           8  God-Pharaoh's Faithful
+    2.00       4x           8  Sunscape Familiar
+    2.00       5x          10  Negate
+    2.00       4x           8  Snap
+    2.00       4x           8  Land Grant
+    2.00       4x           8  Mesmeric Fiend
+    2.00       8x          16  Tolarian Terror
+    2.00       8x          16  Counterspell
+    2.00       4x           8  Winding Way
+    2.00       4x           8  Wall of Roots
+    2.00       4x           8  Masked Vandal
+    2.00       4x           8  Overgrown Battlement
+    1.83      46x          84  Island
+    1.75      16x          28  Lórien Revealed
+    1.50       8x          12  Galvanic Blast
+    1.41      17x          24  Pyroblast
+    1.38       8x          11  Troll of Khazad-dûm
+    1.38       8x          11  Dispel
+    1.38       8x          11  Murmuring Mystic
+    1.25      16x          20  Brainstorm
+    1.20       5x           6  Drown in Sorrow
+    1.17      12x          14  Blue Elemental Blast
+    1.00       6x           6  Foreboding Landscape
+    0.80       5x           4  Stream of Thought
+    0.80       5x           4  Muddle the Mixture
+    0.71       7x           5  Heritage Reclamation
+    0.71       7x           5  Embrace the Paradox
+    0.71       7x           5  Tangle
+    0.71       7x           5  Behold the Multiverse
+    0.67       6x           4  Outlaw Medic
+    0.55      11x           6  Bojuka Bog
+    0.50       8x           4  Growth Spiral
+    0.50       8x           4  Arcane Denial
+    0.50       8x           4  Melded Moxite
+    0.50       4x           2  Manor Gate
+    0.50       8x           4  Pursue the Past
+    0.50       8x           4  Cliffgate
+    0.50       8x           4  Basilisk Gate
+    0.50       8x           4  Citadel Gate
+    0.50       6x           3  Gixian Infiltrator
+    0.50       8x           4  Simic Growth Chamber
+    0.50       8x           4  Sacred Cat
+    0.40       5x           2  Ghostly Flicker
+    0.33       6x           2  Tithing Blade // Consuming Sepulcher
+    0.33       6x           2  Shattered Acolyte
+    0.33      12x           4  Moment's Peace
+    0.00       4x           0  Prophetic Prism
+    0.00       4x           0  Spell Pierce
+    0.00       4x           0  Contaminated Aquifer
+    0.00       4x           0  Striped Riverwinder
+    0.00       4x           0  Barrels of Blasting Jelly
+    0.00       4x           0  Exhume
+   -0.08      25x          -2  Forest
+   -0.18      11x          -2  Malevolent Rumble
+   -0.20       5x          -1  Suffocating Fumes
+   -0.43      14x          -6  Red Elemental Blast
+   -0.50       4x          -2  Ash Barrens
+   -0.60       5x          -3  Extract a Confession
+   -0.67       6x          -4  Bonder's Ornament
+   -0.67      15x         -10  Dust to Dust
+   -0.75      16x         -12  Sneaky Snacker
+   -1.00       4x          -4  Kitchen Imp
+   -1.00       4x          -4  Jagged Barrens
+   -1.00       4x          -4  Alms of the Vein
+   -1.00       4x          -4  Goldmire Bridge
+   -1.00       4x          -4  Glint Hawk
+   -1.00      12x         -12  Journey to Nowhere
+   -1.00       4x          -4  Hopeless Nightmare
+   -1.00       4x          -4  Virus Beetle
+   -1.00       4x          -4  Vampire's Kiss
+   -1.07      15x         -16  Thraben Charm
+   -1.20       5x          -6  Ancient Den
+   -1.29      14x         -18  Prismatic Strands
+   -1.43       7x         -10  Generous Ent
+   -1.54      13x         -20  Faithless Looting
+   -1.75      16x         -28  Lightning Bolt
+   -1.84      55x        -101  Mountain
+   -2.00       8x         -16  Highway Robbery
+   -2.00       8x         -16  Fiery Temper
+   -2.00       8x         -16  Grab the Prize
+   -2.00       4x          -8  Galvanic Discharge
+   -2.00       4x          -8  Midnight Guard
+   -2.00       4x          -8  Presence of Gond
+   -2.00       6x         -12  Dawnbringer Cleric
+   -2.03      32x         -65  Plains
+   -2.17       6x         -13  Cast into the Fire
+   -2.33      12x         -28  Voldaren Epicure
+   -2.50       8x         -20  Kor Skyfisher
+   -2.60      10x         -26  Candy Trail
+   -2.80       5x         -14  Scattershot Archer
+   -3.00       4x         -12  Rally at the Hornburg
+   -3.00       4x         -12  Reckless Impulse
+   -3.00       8x         -24  Urza's Power Plant
+   -3.00       8x         -24  Bramble Wurm
+   -3.00       8x         -24  Expedition Map
+   -3.00       4x         -12  Great Furnace
+   -3.00       4x         -12  Goblin Tomb Raider
+   -3.00       4x         -12  Goblin Bushwhacker
+   -3.00       8x         -24  Urza's Tower
+   -3.00       8x         -24  Urza's Mine
+   -3.00       4x         -12  Burning-Tree Emissary
+   -3.00       4x         -12  Searing Blaze
+   -3.00       4x         -12  Smash to Smithereens
+   -3.00       4x         -12  Kessig Flamebreather
+   -3.00       4x         -12  Lava Dart
+   -3.00       4x         -12  Experimental Synthesizer
+   -3.00       4x         -12  Fireblast
+   -3.00       4x         -12  Clockwork Percussionist
+   -3.56       9x         -32  Relic of Progenitus
+   -4.00       4x         -16  Novice Inspector
+   -4.00       4x         -16  Battle Screech
+   -4.00       4x         -16  Thraben Inspector
+   -4.00       4x         -16  Raffine's Informant
+   -6.00       4x         -24  Maelstrom Colossus
+   -6.00       4x         -24  Ancient Stirrings
+   -6.00       4x         -24  Pinnacle Kill-Ship
+   -6.00       4x         -24  Boulderbranch Golem
