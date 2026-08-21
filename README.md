@@ -12,21 +12,33 @@ In order to ignore outliers, I also ignored any cards who had <10 copies, since 
 
 Looking at the top of the results:
 
-Rel ValCopiesTotal PtsCard Name4.7516x76Drossforge Bridge4.6411x51Krark-Clan Shaman4.3312x52Twisted Landscape4.3312x52Slagwoods Bridge4.3312x52Cleansing Wildfire4.0016x64Fanatical Offering3.7315x56Duress3.6020x72Refurbished Familiar...Rel ValCopiesTotal PtsCard Name-1.0715x-16Thraben Charm-1.2914x-18Prismatic Strands-1.5413x-20Faithless Looting-1.7516x-28Lightning Bolt-1.8455x-101Mountain-2.0332x-65Plains-2.3312x-28Voldaren Epicure-2.6010x-26Candy Trail
+ Rel Val  Copies   Total Pts  Card Name
+-------------------------------------------------------
+    4.75      16x          76  Drossforge Bridge
+    4.64      11x          51  Krark-Clan Shaman
+    4.33      12x          52  Twisted Landscape
+    4.33      12x          52  Slagwoods Bridge
+    4.33      12x          52  Cleansing Wildfire
+    4.00      16x          64  Fanatical Offering
+    3.73      15x          56  Duress
+    3.60      20x          72  Refurbished Familiar
 
 We see cards like "Drossforge Bridge", "Krark-Clan Shaman" which are used in artifact type decks, which performed very well for being an answer to go-wide stye decks and a sacrifice outlet for their artifacts.
 
 At the bottom of the list is:
 
-Rel Val  Copies  Total Pts  Card Name
--1.07    15x     -16        Thraben Charm
--1.29    14x     -18        Prismatic Strands
--1.54    13x     -20        Faithless Looting
--1.75    16x     -28        Lightning Bolt
--1.84    55x     -101       Mountain
--2.03    32x     -65        Plains
--2.33    12x     -28        Voldaren Epicure
--2.60    10x     -26        Candy Trail
+ Rel Val  Copies   Total Pts  Card Name
+-------------------------------------------------------
+   -1.00      12x         -12  Journey to Nowhere
+   -1.07      15x         -16  Thraben Charm
+   -1.29      14x         -18  Prismatic Strands
+   -1.54      13x         -20  Faithless Looting
+   -1.75      16x         -28  Lightning Bolt
+   -1.84      55x        -101  Mountain
+   -2.03      32x         -65  Plains
+   -2.33      12x         -28  Voldaren Epicure
+   -2.60      10x         -26  Candy Trail
+
 
   Which suggests that monowhite decks struggled at the tournament, with staples like Plains, Thraben Charm, and Prismatic Strands. 
 
