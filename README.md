@@ -10,5 +10,22 @@ A sample of 20 decks were selected. In order to get a wide variety of levels, si
 
 In order to ignore outliers, I also ignored any cards who had <10 copies, since the sample size was not large enough the get enough value. 
 
+Looking at the top of the results:
+
+ Rel Val  Copies   Total Pts  Card Name
+-------------------------------------------------------
+    4.75      16x          76  Drossforge Bridge
+    4.64      11x          51  Krark-Clan Shaman
+    4.33      12x          52  Twisted Landscape
+    4.33      12x          52  Slagwoods Bridge
+    4.33      12x          52  Cleansing Wildfire
+    4.00      16x          64  Fanatical Offering
+    3.73      15x          56  Duress
+    3.60      20x          72  Refurbished Familiar
+
+We see cards like "Drossforge Bridge", "Krark-Clan Shaman" which are used in artifact type decks, which performed very well for being an answer to go-wide stye decks and a sacrifice outlet for their artifacts.
+
+At the bottom of the list is:
+
 
 
