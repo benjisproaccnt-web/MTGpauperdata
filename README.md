@@ -29,6 +29,7 @@ We see cards like "Drossforge Bridge", "Krark-Clan Shaman" which are used in art
 
 At the bottom of the list is:
 
+```
  Rel Val  Copies   Total Pts  Card Name
 -------------------------------------------------------
    -1.00      12x         -12  Journey to Nowhere
@@ -40,7 +41,7 @@ At the bottom of the list is:
    -2.03      32x         -65  Plains
    -2.33      12x         -28  Voldaren Epicure
    -2.60      10x         -26  Candy Trail
-
+```
 
   Which suggests that monowhite decks struggled at the tournament, with staples like Plains, Thraben Charm, and Prismatic Strands. 
 
