@@ -12,16 +12,7 @@ In order to ignore outliers, I also ignored any cards who had <10 copies, since 
 
 Looking at the top of the results:
 
- Rel Val  Copies   Total Pts  Card Name
--------------------------------------------------------
-    4.75      16x          76  Drossforge Bridge
-    4.64      11x          51  Krark-Clan Shaman
-    4.33      12x          52  Twisted Landscape
-    4.33      12x          52  Slagwoods Bridge
-    4.33      12x          52  Cleansing Wildfire
-    4.00      16x          64  Fanatical Offering
-    3.73      15x          56  Duress
-    3.60      20x          72  Refurbished Familiar
+Rel ValCopiesTotal PtsCard Name4.7516x76Drossforge Bridge4.6411x51Krark-Clan Shaman4.3312x52Twisted Landscape4.3312x52Slagwoods Bridge4.3312x52Cleansing Wildfire4.0016x64Fanatical Offering3.7315x56Duress3.6020x72Refurbished Familiar...Rel ValCopiesTotal PtsCard Name-1.0715x-16Thraben Charm-1.2914x-18Prismatic Strands-1.5413x-20Faithless Looting-1.7516x-28Lightning Bolt-1.8455x-101Mountain-2.0332x-65Plains-2.3312x-28Voldaren Epicure-2.6010x-26Candy Trail
 
 We see cards like "Drossforge Bridge", "Krark-Clan Shaman" which are used in artifact type decks, which performed very well for being an answer to go-wide stye decks and a sacrifice outlet for their artifacts.
 
