@@ -12,6 +12,7 @@ In order to ignore outliers, I also ignored any cards who had <10 copies, since 
 
 Looking at the top of the results:
 
+
 | Rel| Val | Copies |  Total Pts | Card Name |
 |    4.75  |    16x      |    76 | Drossforge Bridge |
 |    4.64  |    11x      |    51 | Krark-Clan Shaman |
