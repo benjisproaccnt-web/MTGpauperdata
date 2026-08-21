@@ -60,7 +60,7 @@ for card_name, total_score in card_scores.items():
     total_copies = card_counts[card_name]
     
     # Skip cards with 3 or fewer copies
-    if total_copies <= 3:
+    if total_copies <= 9:
         continue
         
     relative_value = round(total_score / total_copies, 2)
