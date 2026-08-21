@@ -27,5 +27,20 @@ We see cards like "Drossforge Bridge", "Krark-Clan Shaman" which are used in art
 
 At the bottom of the list is:
 
+ Rel Val  Copies   Total Pts  Card Name
+-------------------------------------------------------
+   -1.07      15x         -16  Thraben Charm
+   -1.29      14x         -18  Prismatic Strands
+   -1.54      13x         -20  Faithless Looting
+   -1.75      16x         -28  Lightning Bolt
+   -1.84      55x        -101  Mountain
+   -2.03      32x         -65  Plains
+   -2.33      12x         -28  Voldaren Epicure
+   -2.60      10x         -26  Candy Trail
+
+  Which suggests that monowhite decks struggled at the tournament, with staples like Plains, Thraben Charm, and Prismatic Strands. 
+
+  Interestingly, monocolor decks run significantly more basic lands than multicolor decks, which explains why the nonbasic lands have a high point value rating, while the basic lands have a low rating.  
+
 
 
